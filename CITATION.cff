@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Detecting Defective Solar Cells from Defect-Free Examples: A Patch-Memory Study on ELPV"
+type: software
+authors:
+  - family-names: Siraj
+    given-names: Abdullah Mohammed
+    email: abdullahsiraj129@gmail.com
+date-released: 2026-10-18
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/abdullahsiraj129/pv-defect-fewshot"
+keywords:
+  - anomaly detection
+  - solar photovoltaics
+  - electroluminescence
+  - few-shot learning
+  - PatchCore
+  - ELPV dataset
