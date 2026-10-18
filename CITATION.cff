@@ -8,6 +8,7 @@ authors:
     email: abdullahsiraj129@gmail.com
 date-released: 2026-10-18
 version: "1.0.0"
+doi: 10.5281/zenodo.23450818
 license: MIT
 repository-code: "https://github.com/abdullahsiraj129/pv-defect-fewshot"
 keywords:

@@ -1,5 +1,7 @@
 # Detecting defective solar cells from defect-free examples
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23450818.svg)](https://doi.org/10.5281/zenodo.23450818)
+
 A short, reproducible study on [ELPV](https://github.com/zae-bayern/elpv-dataset): 2,624 electroluminescence images of single solar cells from 44 modules, each annotated by experts with a defect probability of 0, 1/3, 2/3 or 1.
 
 **Question.** Defect labels on a solar plant are expensive: someone has to image the panels and an expert has to mark the faults. Defect-free cells are cheap. Can a detector learnt from defect-free cells alone compete with one trained on labelled defects, and how many defect-free cells does it need?
