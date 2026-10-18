@@ -1,0 +1,9 @@
+{
+  "title": "Detecting Defective Solar Cells from Defect-Free Examples: A Patch-Memory Study on ELPV",
+  "upload_type": "software",
+  "description": "On ELPV, 2,624 electroluminescence images of solar cells, a PatchCore-style patch memory built only from defect-free cells reaches ROC AUC 0.893, above logistic regression on the same Wide ResNet-50-2 features given 50 labelled defects (0.874) or 10 (0.823). It reaches 0.875 with only 50 defect-free cells. Cells that experts marked as uncertain (probability 1/3) score between defect-free and defective cells (median score percentile 37.5, against 28.6 and 77.2). Monocrystalline 0.939, polycrystalline 0.876. Code and results; the ELPV data is not included.",
+  "creators": [{"name": "Siraj, Abdullah Mohammed"}],
+  "keywords": ["anomaly detection", "solar photovoltaics", "electroluminescence", "few-shot learning", "PatchCore", "ELPV dataset"],
+  "license": "MIT",
+  "language": "eng"
+}
